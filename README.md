@@ -9,6 +9,18 @@
 #### ```I’m currently working on automatlog.io```
 #### ```I’m currently learning B.TECH CSE.```
 
+<a title="Instagram" href="https://www.instagram.com/codingkites/">
+    <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/insta.svg" width="30" height="30" />    
+  </a>
+  <a title="LinkedIn" href="https://www.linkedin.com/in/ashutosh-bhadauriya-b117431a9/">
+    <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/linkedin.svg" width="30" height="30" />
+  </a>
+  <a title="Twitter" href="https://twitter.com/techdrippers">
+    <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/twitter.svg" width="30" height="30" />
+  </a>
+  <a title="Email" href="mailto:abhadauriya360@gmail.com">
+    <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/gmail.svg" width="30" height="30" />
+  </a>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/automatlog)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/automatlog/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/automatlog) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/Automatlog) 

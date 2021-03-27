@@ -15,7 +15,8 @@ Skills: C/C++/Python/HTML / CSS/JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=automatlog&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/automatlog)](https://github.com/automatlog/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=automatlog)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 automatlog/automatlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

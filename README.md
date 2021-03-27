@@ -17,7 +17,7 @@ Skills: C/C++/Python/HTML / CSS/JS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/automatlog)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/automatlog)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/automatlog)](https://github.com/automatlog/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/automatlog&show_icons=true)  
 

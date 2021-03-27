@@ -3,7 +3,7 @@
 ![I'm a CSE student](https://imgur.com/ALXPKsa.png)
 
 
-# My Skills
+#                                      My Skills
 ```C/ C++/ Python/ HTML / CSS/ JS ```
 
 #### ```I’m currently working on automatlog.io```

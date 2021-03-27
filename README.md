@@ -2,7 +2,7 @@
 
 ![I'm a CSE student](https://imgur.com/ALXPKsa.png)
 
-<center>
+
 # My Skills
 ```C/ C++/ Python/ HTML / CSS/ JS ```
 

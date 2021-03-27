@@ -8,8 +8,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: C/C++/Python/HTML / CSS/JS
 ```
 
-#####```I’m currently working on automatlog.io```
-#####```I’m currently learning B.TECH CSE.```  
+#### *```I’m currently working on automatlog.io```
+#### *```I’m currently learning B.TECH CSE.```  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/automatlog)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/automatlog/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/automatlog)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/Automatlog)  

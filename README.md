@@ -2,9 +2,10 @@
 
 ![I'm a CSE student](https://imgur.com/ALXPKsa.png)
 
-
-#                                      My Skills
+<center>
+# My Skills
 ```C/ C++/ Python/ HTML / CSS/ JS ```
+  </center>
 
 #### ```I’m currently working on automatlog.io```
 #### ```I’m currently learning B.TECH CSE.```

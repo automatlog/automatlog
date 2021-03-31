@@ -15,12 +15,9 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/automatlog/) </br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/automatlog) </br> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/Automatlog) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=automatlog&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=automatlog&show_icons=true&layout=compact&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=00041A)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=automatlog)](https://github.com/automatlog/github-readme-stats)
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=automatlog&layout=compact&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=00041A" height="165px">
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=automatlog&layout=compact&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=00041A)](https://github.com/automatlog/github-readme-stats)
 <!---
 automatlog/automatlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -17,7 +17,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=automatlog&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=automatlog)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=automatlog)](https://github.com/automatlog/github-readme-stats)
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=automatlog&layout=compact&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=00041A" height="165px">
 </p>

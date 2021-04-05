@@ -19,7 +19,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=automatlog&show_icons=true&layout=compact&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=00041A)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=automatlog&layout=compact&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=00041A)](https://github.com/automatlog/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/automatlog/github-readme-stats)
 <!---
 automatlog/automatlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

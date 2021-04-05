@@ -19,7 +19,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=automatlog&show_icons=true&layout=compact&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=00041A)
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=automatlog&hide_title=true&hide_border=true&langs_count=7)
+
 
 <!---
 automatlog/automatlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

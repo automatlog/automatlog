@@ -33,11 +33,11 @@
 <br/><br/>
 
 <a href="https://github.com/remcohalman/github-readme-stats">
-<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=automatlog&layout=compact&theme=blue-red" />
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=automatlog&layout=compact&theme=blue-green" />
 </a>
 <br/>
 <br/>
-> EYES ON ME : ![](https://komarev.com/ghpvc/?username=automatlog&color=FF0B1E)
+> EYES ON ME : ![](https://komarev.com/ghpvc/?username=automatlog&color=#FF0B1E)
 <!---
 automatlog/automatlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

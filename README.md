@@ -37,7 +37,6 @@
 </a>
 <br/>
 <br/>
-#### Eyes on me
 ![](https://komarev.com/ghpvc/?username=automatlog&color=red)
 <!---
 automatlog/automatlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

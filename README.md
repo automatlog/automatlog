@@ -37,7 +37,7 @@
 </a>
 <br/>
 <br/>
-![](https://komarev.com/ghpvc/?username=automatlog&color=red)
+![](https://komarev.com/ghpvc/?username=automatlog&color=yellow)
 <!---
 automatlog/automatlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

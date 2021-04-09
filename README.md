@@ -34,7 +34,7 @@
 
 <a href="https://github.com/remcohalman/github-readme-stats">
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=automatlog&layout=compact&theme=blue-green"/>
-</a><br>
+</a><br/><br/>
 
 # Profile Viewed :
 ![](https://komarev.com/ghpvc/?username=automatlog&color=blue)

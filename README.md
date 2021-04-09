@@ -34,9 +34,9 @@
 
 <a href="https://github.com/remcohalman/github-readme-stats">
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=automatlog&layout=compact&theme=blue-green"/>
-</a><br/><br/></br></br></br>
+</a><br/><br/></br></br></br></br></br>
 
-> Profile Viewed :
+> EYES ON ME :
 ![](https://komarev.com/ghpvc/?username=automatlog&color=blue)
 <!---
 automatlog/automatlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

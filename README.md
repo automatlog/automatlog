@@ -37,7 +37,7 @@
 </a>
 <br/>
 <br/>
-> EYES ON ME : ![](https://komarev.com/ghpvc/?username=automatlog&color=#FF0B1E)
+> EYES ON ME : ![](https://komarev.com/ghpvc/?username=automatlog&color=red)
 <!---
 automatlog/automatlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

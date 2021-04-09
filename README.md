@@ -9,7 +9,6 @@
 #### ```I’m currently working on automatlog.io```
 #### ```I’m currently learning B.TECH CSE.```
 
-![](https://komarev.com/ghpvc/?username=rajivranjanmars&color=blue)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/automatlog)
 </br>
@@ -30,14 +29,14 @@
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<br/>
+<br/></br>
 
 <a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rajivranjanmars&layout=compact&theme=blue-green" />
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=automatlog&layout=compact&theme=blue-green" />
 </a>
 
 
-
+> Eye on me : ![](https://komarev.com/ghpvc/?username=automatlog&color=yellow)
 <!---
 automatlog/automatlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

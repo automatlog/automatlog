@@ -1,4 +1,4 @@
-## Hi there...!👋, 
+## Hey there...!👋, 
 
 ![I'm a CSE student](https://imgur.com/xpmCuDs.png)
 

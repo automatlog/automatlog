@@ -1,6 +1,6 @@
 ## Hi there...!👋, 
 
-![I'm a CSE student](https://imgur.com/ALXPKsa.png)
+![I'm a CSE student](https://imgur.com/a/d2GBd9d.png)
 
 
 #### ```I’m currently working on automatlog.io```

@@ -23,11 +23,10 @@
 <br/><br/></br>
 
 <a href="https://github.com/remcohalman/github-readme-stats">
-<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=automatlog&layout=compact&theme=blue-green"/>
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=automatlog&layout=compact&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=FFAF02&amp;bg_color=131419"/>
 </a><br/><br/></br></br></br></br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=automatlog&show_icons=true&layout=compact&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=FFAF02&amp;bg_color=131419)
-
 
 <!---
 automatlog/automatlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

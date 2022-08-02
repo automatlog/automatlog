@@ -26,7 +26,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=automatlog&layout=compact&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=FFAF02&amp;bg_color=131419"/>
 </a><br/><br/></br></br></br></br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=automatlog&show_icons=true&layout=compact&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=FFAF02&amp;bg_color=131419)
+![GitHub stats](https://github-readme-stats.vercel.app/apiusername=automatlog&show_icons=true&layout=compact&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=FFAF02&amp;bg_color=131419)
 
 
 <p align="center"> <br>

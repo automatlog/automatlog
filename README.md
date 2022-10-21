@@ -1,12 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://automatlog.io)
 <h1 align="center">Hey There...! 👋, I'm Aman Yadav</h1>
 <h3 align="center">Student | Web Developer | Artist</h3>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="[https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media2.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=790b7611821fe7e6aaef82b852baf83c0b20c4ae86e83512&rid=giphy.gif&ct=g)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=automatlog&label=Profile%20views&color=0e75b6&style=flat" alt="automatlog" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=automatlog" alt="automatlog" /></a> </p>
 
 - 🔭 I’m currently working on [automatlog.github.io](https://github.com/automatlog/automatlog.github.io)
 

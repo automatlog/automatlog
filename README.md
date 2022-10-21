@@ -1,7 +1,7 @@
 <h1 align="center">Hey There...! 👋, I'm Aman Yadav</h1>
 <h3 align="center">Student | Web Developer | Artist</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=790b7611821fe7e6aaef82b852baf83c0b20c4ae86e83512&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" height="300" width="300" src="https://media2.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=790b7611821fe7e6aaef82b852baf83c0b20c4ae86e83512&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=automatlog&label=Profile%20views&color=0e75b6&style=flat" alt="automatlog" /> </p>
 
@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://codepen.io/automatlog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="automatlog" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amandkyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amandkyadav" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/Automatlog" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,9 +1,6 @@
 <h1 align="center">Hey There...! 👋, I'm Aman Yadav</h1>
 <h3 align="center">Student | Web Developer | Artist</h3>
 
-<img align="right" alt="Coding" height="300" width="300" src="https://media2.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=790b7611821fe7e6aaef82b852baf83c0b20c4ae86e83512&rid=giphy.gif&ct=g">
-
-
 - 🔭 I’m currently working on [automatlog.github.io](https://github.com/automatlog/automatlog.github.io)
 
 - 🌱 I’m currently learning **JS PHP**

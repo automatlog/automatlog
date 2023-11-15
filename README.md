@@ -1,5 +1,5 @@
 <h1 align="center">Hey There...! 👋, I'm Aman Yadav</h1>
-<h3 align="center">CSE Student | Frontend Developer | Graphic Designer</h3>
+<h3 align="center">Cybersecurity | Frontend Developer | Graphic Designer</h3>
 
 - 🔭 I’m currently working on [automatlog.github.io](https://github.com/automatlog/automatlog.github.io)
 

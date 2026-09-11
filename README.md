@@ -36,7 +36,7 @@
 <!--                         ABOUT ME                              -->
 <!-- ============================================================= -->
 
-<img align="right" alt="coding gif" width="370" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<img align="right" alt="coding animation" width="370" src="https://raw.githubusercontent.com/automatlog/automatlog/main/assets/coder.gif" />
 
 ### 🧑‍💻 &nbsp;About Me
 

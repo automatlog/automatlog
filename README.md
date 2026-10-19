@@ -3,7 +3,7 @@
 <!-- ============================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Aman%20Yadav&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20AI%20%26%20Agent%20Security%20%E2%80%A2%20CPaaS%20Platform%20Engineer&descSize=17&descAlignY=58&animation=fadeIn" alt="Aman Yadav — Software Developer • AI &amp; Agent Security • CPaaS Platform Engineer" />
+  <img src="assets/header.svg" alt="Aman Yadav — Software Developer • AI &amp; Agent Security • CPaaS Platform Engineer" />
 </p>
 
 <p align="center">
@@ -310,22 +310,6 @@
 </p>
 
 <!-- ============================================================= -->
-<!--                  CONTRIBUTION SNAKE                           -->
-<!-- ============================================================= -->
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/automatlog/automatlog/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/automatlog/automatlog/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/automatlog/automatlog/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img alt="" src="assets/divider.svg" width="100%" height="3" />
-</p>
-
-<!-- ============================================================= -->
 <!--                          SIGN-OFF                             -->
 <!-- ============================================================= -->
 
@@ -338,5 +322,5 @@
 <!-- ============================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer&animation=fadeIn" alt="" />
+  <img src="assets/footer.svg" alt="" />
 </p>

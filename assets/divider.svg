@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 3" preserveAspectRatio="none" width="1000" height="3">
+  <defs>
+    <linearGradient id="streak" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#f90202" stop-opacity="0"/>
+      <stop offset="0.85" stop-color="#f90202" stop-opacity="1"/>
+      <stop offset="1" stop-color="#f90202" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect y="0" width="450" height="3" fill="url(#streak)">
+    <animate attributeName="x" from="-450" to="1000" dur="2.25s" repeatCount="indefinite"/>
+  </rect>
+</svg>

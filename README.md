@@ -46,7 +46,7 @@
 - 🛡️ &nbsp;**AI & Agent Security Researcher** — Focused on Model Context Protocol (MCP) servers & agentic security: tool poisoning, schema poisoning, confused-deputy attacks, and prompt misuse.
 - 🔑 &nbsp;**OAuth & IAM Architecture** — Architected unified OAuth hubs across 6+ platforms (Zoho, HubSpot, Shopify, Razorpay) and multi-channel pipelines (WhatsApp, SMS, RCS).
 - 🤖 &nbsp;**GenAI & RAG Systems** — Implemented production RAG pipelines with Python, PyTorch, HuggingFace Transformers, vLLM, pgvector, and LangGraph orchestration.
-- 🌐 &nbsp;**Founder & Builder at [automatlog.in](https://automatlog.in)** — Shipping production platforms, web applications, and security tooling for client ecosystems.
+- 🌐 &nbsp;**Founder & Builder at [automateplatform.in](https://automateplatform.in)** — Shipping production platforms, web applications, and security tooling for client ecosystems.
 - 🎓 &nbsp;**B.Tech CSE (Cybersecurity & Networking)** — ITM-SLS Baroda University · Vadodara, Gujarat 🇮🇳
 - 🤝 &nbsp;**Community Leadership** — Management Lead @ GDSC ITMBU · Student Ambassador @ DeepLearning.AI · AWS User Group Vadodara.
 - 📫 &nbsp;Reach me via [LinkedIn](https://linkedin.com/in/amandkyadav) or explore my portfolio at **[automatlog.in](https://automatlog.in)**.

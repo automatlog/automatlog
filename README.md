@@ -232,13 +232,12 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 AI Connector &nbsp;<code>2026</code></h3>
-      <p>CPaaS solution delivered on <b>Android & iOS (React Native, Expo)</b> with webhook-driven WhatsApp, SMS, and RCS pipelines, WebRTC voice signaling over FreeSWITCH, and consolidated OAuth 2.0 multi-provider token management.</p>
+      <h3>🔌 AI Connector &nbsp;<code>2026</code></h3>
+      <p>Embeddable AI widget shipped as a <b>CDN script</b> and an <b>SDK</b>, backed by a connector that links LLM providers (<b>OpenAI, Anthropic, Gemini, DeepSeek</b>), each with its own API key and default model.</p>
       <p>
-        <img alt="React Native: Expo" src="https://img.shields.io/badge/React%20Native-Expo-20232a?style=flat-square" />
-        <img alt="WhatsApp: RCS Pipelines" src="https://img.shields.io/badge/WhatsApp-RCS%20Pipelines-25D366?style=flat-square" />
-        <img alt="WebRTC: FreeSWITCH" src="https://img.shields.io/badge/WebRTC-FreeSWITCH-0052CC?style=flat-square" />
-        <img alt="Firebase: Auth &amp; DB" src="https://img.shields.io/badge/Firebase-Auth%20%26%20DB-FFA611?style=flat-square" />
+        <img alt="CDN: Script Embed" src="https://img.shields.io/badge/CDN-Script%20Embed-F38020?style=flat-square" />
+        <img alt="SDK: Widget" src="https://img.shields.io/badge/SDK-Widget-6C5CE7?style=flat-square" />
+        <img alt="LLM: OpenAI · Anthropic · Gemini · DeepSeek" src="https://img.shields.io/badge/LLM-OpenAI%20%C2%B7%20Anthropic%20%C2%B7%20Gemini%20%C2%B7%20DeepSeek-412991?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -275,7 +274,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>🛒 Shopify/Ecommerce Automation</h3>
       <p>Commerce automation across <b>Shopify and WooCommerce</b>: a Shopify App Store app that brings messaging to merchants (Remix + Polaris), a WooCommerce plugin sending automated order notifications for 4 live stores, and custom Shopify storefronts built on Liquid.</p>
       <p>
@@ -283,6 +282,16 @@
         <img alt="Remix: Polaris" src="https://img.shields.io/badge/Remix-Polaris-000000?style=flat-square" />
         <img alt="WooCommerce: Order Notifications" src="https://img.shields.io/badge/WooCommerce-Order%20Notifications-96588A?style=flat-square" />
         <img alt="Liquid: Storefronts" src="https://img.shields.io/badge/Liquid-Storefronts-008060?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Mobile App &nbsp;<code>2026</code></h3>
+      <p>CPaaS solution delivered on <b>Android & iOS (React Native, Expo)</b> with webhook-driven WhatsApp, SMS, and RCS pipelines, WebRTC voice signaling over FreeSWITCH, and consolidated OAuth 2.0 multi-provider token management.</p>
+      <p>
+        <img alt="React Native: Expo" src="https://img.shields.io/badge/React%20Native-Expo-20232a?style=flat-square" />
+        <img alt="WhatsApp: RCS Pipelines" src="https://img.shields.io/badge/WhatsApp-RCS%20Pipelines-25D366?style=flat-square" />
+        <img alt="WebRTC: FreeSWITCH" src="https://img.shields.io/badge/WebRTC-FreeSWITCH-0052CC?style=flat-square" />
+        <img alt="Firebase: Auth &amp; DB" src="https://img.shields.io/badge/Firebase-Auth%20%26%20DB-FFA611?style=flat-square" />
       </p>
     </td>
   </tr>

@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=Hey+there+%F0%9F%91%8B+I'm+Aman+Yadav;Software+Developer+%40+Smart+Technology;AI+%26+Agent+Security+Researcher+%E2%80%A2+MCP+Threat+Modeling;Azure+Certified+Admin+(AZ-104)+%E2%80%A2+ISO%2FIEC+27001;Top+5%25+%40+TryHackMe+%E2%80%A2+Security+Engineer;Founder+%26+Builder+%40+automatlog.in;%22Alive+%26+Well+Functioning...!%22" alt="typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=Hey+there+%F0%9F%91%8B+I'm+Aman+Yadav;Software+Developer+%40+Smart+Technology;AI+%26+Agent+Security+Researcher+%E2%80%A2+MCP+Threat+Modeling;Azure+Certified+Admin+(AZ-104)+%E2%80%A2+ISO%2FIEC+27001;Top+5%25+%40+TryHackMe+%E2%80%A2+Security+Engineer;Building+Automate+on+the+side;%22Alive+%26+Well+Functioning...!%22" alt="typing animation" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 - 🛡️ &nbsp;**AI & Agent Security Researcher** — Focused on Model Context Protocol (MCP) servers & agentic security: tool poisoning, schema poisoning, confused-deputy attacks, and prompt misuse.
 - 🔑 &nbsp;**OAuth & IAM Architecture** — Architected unified OAuth hubs across 6+ platforms (Zoho, HubSpot, Shopify, Razorpay) and multi-channel pipelines (WhatsApp, SMS, RCS).
 - 🤖 &nbsp;**GenAI & RAG Systems** — Implemented production RAG pipelines with Python, PyTorch, HuggingFace Transformers, vLLM, pgvector, and LangGraph orchestration.
-- 🌐 &nbsp;**Founder & Builder at [automateplatform.in](https://automateplatform.in)** — Shipping production platforms, web applications, and security tooling for client ecosystems.
+- 🌐 &nbsp;**Building [Automate](https://automateplatform.in) on the side** — an AI-agent automation platform with a visual chatbot builder and multi-agent orchestration.
 - 🎓 &nbsp;**B.Tech CSE (Cybersecurity & Networking)** — ITM-SLS Baroda University · Vadodara, Gujarat 🇮🇳
 - 🤝 &nbsp;**Community Leadership** — Management Lead @ GDSC ITMBU · Student Ambassador @ DeepLearning.AI · AWS User Group Vadodara.
 - 📫 &nbsp;Reach me via [LinkedIn](https://linkedin.com/in/amandkyadav) or explore my portfolio at **[automatlog.in](https://automatlog.in)**.
@@ -70,9 +70,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <a href="https://learn.microsoft.com/users/amandkyadav/">
-        <img alt="Microsoft Certified: Azure Administrator Associate (AZ-104)" src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate%20(AZ--104)-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTWljcm9zb2Z0IEF6dXJlPC90aXRsZT48cGF0aCBkPSJNMjIuMzc5IDIzLjM0M2ExLjYyIDEuNjIgMCAwIDAgMS41MzYtMi4xNHYuMDAyTDE3LjM1IDEuNzZBMS42MiAxLjYyIDAgMCAwIDE1LjgxNi42NTdIOC4xODRBMS42MiAxLjYyIDAgMCAwIDYuNjUgMS43NkwuMDg2IDIxLjIwNGExLjYyIDEuNjIgMCAwIDAgMS41MzYgMi4xMzloNC43NDFhMS42MiAxLjYyIDAgMCAwIDEuNTM1LTEuMTAzbC45NzctMi44OTIgNC45NDcgMy42NzVjLjI4LjIwOC42MTguMzIuOTY2LjMybS0zLjA4NC0xMi41MzEgMy42MjQgMTAuNzM5YS41NC41NCAwIDAgMS0uNTEuNzEzdi0uMDAxaC0uMDNhLjU0LjU0IDAgMCAxLS4zMjItLjEwNmwtOS4yODctNi45aDQuODUzbTYuMzEzIDcuMDA2Yy4xMTYtLjMyNi4xMy0uNjk0LjAwNy0xLjA1OEw5Ljc5IDEuNzZhMS43MjIgMS43MjIgMCAwIDAtLjAwNy0uMDJoNi4wMzRhLjU0LjU0IDAgMCAxIC41MTIuMzY2bDYuNTYyIDE5LjQ0NWEuNTQuNTQgMCAwIDEtLjMzOC42ODQiLz48L3N2Zz4%3D&logoColor=white" />
-      </a>
+      <img alt="Microsoft Certified: Azure Administrator Associate (AZ-104)" src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate%20(AZ--104)-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTWljcm9zb2Z0IEF6dXJlPC90aXRsZT48cGF0aCBkPSJNMjIuMzc5IDIzLjM0M2ExLjYyIDEuNjIgMCAwIDAgMS41MzYtMi4xNHYuMDAyTDE3LjM1IDEuNzZBMS42MiAxLjYyIDAgMCAwIDE1LjgxNi42NTdIOC4xODRBMS42MiAxLjYyIDAgMCAwIDYuNjUgMS43NkwuMDg2IDIxLjIwNGExLjYyIDEuNjIgMCAwIDAgMS41MzYgMi4xMzloNC43NDFhMS42MiAxLjYyIDAgMCAwIDEuNTM1LTEuMTAzbC45NzctMi44OTIgNC45NDcgMy42NzVjLjI4LjIwOC42MTguMzIuOTY2LjMybS0zLjA4NC0xMi41MzEgMy42MjQgMTAuNzM5YS41NC41NCAwIDAgMS0uNTEuNzEzdi0uMDAxaC0uMDNhLjU0LjU0IDAgMCAxLS4zMjItLjEwNmwtOS4yODctNi45aDQuODUzbTYuMzEzIDcuMDA2Yy4xMTYtLjMyNi4xMy0uNjk0LjAwNy0xLjA1OEw5Ljc5IDEuNzZhMS43MjIgMS43MjIgMCAwIDAtLjAwNy0uMDJoNi4wMzRhLjU0LjU0IDAgMCAxIC41MTIuMzY2bDYuNTYyIDE5LjQ0NWEuNTQuNTQgMCAwIDEtLjMzOC42ODQiLz48L3N2Zz4%3D&logoColor=white" />
       <br/>
       <sub><b>Sep 2024</b> · Credential ID: <code>862B527704C9AF53</code></sub>
     </td>
